@@ -1,1 +1,110 @@
-[[{"conductor":"q","auto":"w","carril":1,"distancia":0},{"conductor":"e","auto":"r","carril":2,"distancia":0}],[{"conductor":"w","auto":"e","carril":1,"distancia":0},{"conductor":"r","auto":"t","carril":2,"distancia":0}],[{"conductor":"memo","auto":"toyota","carril":3,"distancia":0},{"conductor":"juan","auto":"kia","carril":1,"distancia":0},{"conductor":"pepe","auto":"akt","carril":2,"distancia":0}],[{"conductor":"juancho","auto":"lambo","carril":1,"distancia":0},{"conductor":"jose","auto":"suzuki","carril":2,"distancia":0}],[{"conductor":"maria","auto":"volksvagen","carril":2,"distancia":0},{"conductor":"susana","auto":"nissan","carril":1,"distancia":0}],[{"conductor":"mark","auto":"lamborgini","carril":3,"distancia":0},{"conductor":"jor","auto":"kia","carril":1,"distancia":0},{"conductor":"karl","auto":"bmw","carril":4,"distancia":0},{"conductor":"pepo","auto":"toyota","carril":2,"distancia":0}],[{"conductor":"jose","auto":"audi","carril":3,"distancia":0},{"conductor":"louis","auto":"mazda","carril":2,"distancia":0},{"conductor":"barth","auto":"ford","carril":1,"distancia":0}],[{"conductor":"jean paul","auto":"fiat","carril":2,"distancia":0},{"conductor":"hugo","auto":"renault","carril":1,"distancia":0}]]
+[
+    [
+        {
+            "conductor": "memo",
+            "auto": "toyota",
+            "carril": 3,
+            "distancia": 0
+        },
+        {
+            "conductor": "juan",
+            "auto": "kia",
+            "carril": 1,
+            "distancia": 0
+        },
+        {
+            "conductor": "pepe",
+            "auto": "akt",
+            "carril": 2,
+            "distancia": 0
+        }
+    ],
+    [
+        {
+            "conductor": "juancho",
+            "auto": "lambo",
+            "carril": 1,
+            "distancia": 0
+        },
+        {
+            "conductor": "jose",
+            "auto": "suzuki",
+            "carril": 2,
+            "distancia": 0
+        }
+    ],
+    [
+        {
+            "conductor": "maria",
+            "auto": "volksvagen",
+            "carril": 2,
+            "distancia": 0
+        },
+        {
+            "conductor": "susana",
+            "auto": "nissan",
+            "carril": 1,
+            "distancia": 0
+        }
+    ],
+    [
+        {
+            "conductor": "mark",
+            "auto": "lamborgini",
+            "carril": 3,
+            "distancia": 0
+        },
+        {
+            "conductor": "jor",
+            "auto": "kia",
+            "carril": 1,
+            "distancia": 0
+        },
+        {
+            "conductor": "karl",
+            "auto": "bmw",
+            "carril": 4,
+            "distancia": 0
+        },
+        {
+            "conductor": "pepo",
+            "auto": "toyota",
+            "carril": 2,
+            "distancia": 0
+        }
+    ],
+    [
+        {
+            "conductor": "jose",
+            "auto": "audi",
+            "carril": 3,
+            "distancia": 0
+        },
+        {
+            "conductor": "louis",
+            "auto": "mazda",
+            "carril": 2,
+            "distancia": 0
+        },
+        {
+            "conductor": "barth",
+            "auto": "ford",
+            "carril": 1,
+            "distancia": 0
+        }
+    ],
+    [
+        {
+            "conductor": "jean paul",
+            "auto": "fiat",
+            "carril": 2,
+            "distancia": 0
+        },
+        {
+            "conductor": "hugo",
+            "auto": "renault",
+            "carril": 1,
+            "distancia": 0
+        }
+    ]
+]
