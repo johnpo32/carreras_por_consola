@@ -52,58 +52,58 @@ Digite el la marca del vehiculo: nissan
 Carril 3 
 ********** ¡Juguemos! ***********
 
-Jugador [diego] arroje los dados (pulse enter) 
+Jugador [diego] arroje el dado (pulse enter) 
 El dado saco 3 avanza 300m y estas a 1700m de la meta 
 
-Jugador [cesar] arroje los dados (pulse enter) 
+Jugador [cesar] arroje el dado (pulse enter) 
 El dado saco 5 avanza 500m y estas a 1500m de la meta 
 
-Jugador [mario] arroje los dados (pulse enter) 
+Jugador [mario] arroje el dado (pulse enter) 
 El dado saco 2 avanza 200m y estas a 1800m de la meta 
 
-Jugador [diego] arroje los dados (pulse enter) 
+Jugador [diego] arroje el dado (pulse enter) 
 El dado saco 2 avanza 200m y estas a 1500m de la meta 
 
-Jugador [cesar] arroje los dados (pulse enter) 
+Jugador [cesar] arroje el dado (pulse enter) 
 El dado saco 4 avanza 400m y estas a 1100m de la meta 
 
-Jugador [mario] arroje los dados (pulse enter) 
+Jugador [mario] arroje el dado (pulse enter) 
 El dado saco 3 avanza 300m y estas a 1500m de la meta 
 
-Jugador [diego] arroje los dados (pulse enter) 
+Jugador [diego] arroje el dado (pulse enter) 
 El dado saco 3 avanza 300m y estas a 1200m de la meta 
 
-Jugador [cesar] arroje los dados (pulse enter) 
+Jugador [cesar] arroje el dado (pulse enter) 
 El dado saco 2 avanza 200m y estas a 900m de la meta 
 
-Jugador [mario] arroje los dados (pulse enter) 
+Jugador [mario] arroje el dado (pulse enter) 
 El dado saco 1 avanza 100m y estas a 1400m de la meta 
 
-Jugador [diego] arroje los dados (pulse enter) 
+Jugador [diego] arroje el dado (pulse enter) 
 El dado saco 6 avanza 600m y estas a 600m de la meta 
 
-Jugador [cesar] arroje los dados (pulse enter) 
+Jugador [cesar] arroje el dado (pulse enter) 
 El dado saco 6 avanza 600m y estas a 300m de la meta 
 
 Jugador [mario] arroje los dados (pulse enter) 
 El dado saco 3 avanza 300m y estas a 1100m de la meta 
 
-Jugador [diego] arroje los dados (pulse enter) 
+Jugador [diego] arroje el dado (pulse enter) 
 El dado saco 5 avanza 500m y estas a 100m de la meta 
 
-Jugador [cesar] arroje los dados (pulse enter) 
+Jugador [cesar] arroje el dado (pulse enter) 
 El dado saco 2 avanza 200m y estas a 100m de la meta 
 
-Jugador [mario] arroje los dados (pulse enter) 
+Jugador [mario] arroje el dado (pulse enter) 
 El dado saco 6 avanza 600m y estas a 500m de la meta 
 
-Jugador [diego] arroje los dados (pulse enter) 
+Jugador [diego] arroje el dado (pulse enter) 
 Llegaste a la meta en posicion 1 
 
-Jugador [mario] arroje los dados (pulse enter) 
+Jugador [mario] arroje el dado (pulse enter) 
 Llegaste a la meta en posicion 2 
 
-Jugador [cesar] arroje los dados (pulse enter) 
+Jugador [cesar] arroje el dado (pulse enter) 
 Llegaste a la meta en posicion 3 
 
 ~~~~~~~~~~~~ Meta ~~~~~~~~~~~~~
@@ -111,6 +111,5 @@ Posicion 1: diego, carril 1
 Posicion 2: mario, carril 3
 Posicion 3: cesar, carril 2
 *=>Ronda Finalizada [Pulse Enter] para guardar la informacion<=*
-
 
 ```

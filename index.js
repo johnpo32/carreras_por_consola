@@ -25,7 +25,7 @@ function Jugar() {
   while (n < 1) {
     for (var i = 0; i < juego.length; i++) {
       if (juego[i].distancia == 0) continue // Si el jugador ya llego a la meta saltar iteracion
-      prompt(`Jugador [${juego[i].conductor}] arroje los dados (pulse enter) `)
+      prompt(`Jugador [${juego[i].conductor}] arroje el dado (pulse enter) `)
       azar = dado()
       juego[i].distancia = avance(azar, juego[i].distancia) //descontamos el avance
       // Una vez descontado el avance si es cero la distancia el participante ya llego
