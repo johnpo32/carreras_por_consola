@@ -9,3 +9,10 @@ npm install
 
 ## Preview
 node index
+
+Juego de carros por consola \
+***************************** \
+1. Historial \
+2. Jugar \
+0. Salir \
+Pulse una opcion:  
